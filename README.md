@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G3RSONV
-- 👀 Currently building up skills on Machine Learning, Assembly code and CyberSecurity.
+- 👀 Currently building up skills automation, cloud computing and CyberSecurity.
 - 🌱 Lifetime learner.
 - 💞️ Always open to collaborate.
 - 📫 How to reach me g3rsonv@proton.me
